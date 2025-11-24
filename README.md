@@ -1,69 +1,53 @@
-# Welcome to your Lovable project
+# Portfolio Website - يوسف عصام
 
-## Project info
+موقع بورتفوليو احترافي لعرض المشاريع والمهارات
 
-**URL**: https://lovable.dev/projects/99d36a66-71e7-42f5-9d9c-c636940408ca
+## التقنيات المستخدمة
 
-## How can I edit this code?
+- **Vite** - أداة بناء سريعة
+- **React** - مكتبة JavaScript لبناء واجهات المستخدم
+- **TypeScript** - JavaScript مع الأنواع
+- **Tailwind CSS** - إطار عمل CSS
+- **shadcn/ui** - مكونات UI
 
-There are several ways of editing your application.
+## التثبيت والتشغيل
 
-**Use Lovable**
+```bash
+# تثبيت المكتبات
+npm install
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/99d36a66-71e7-42f5-9d9c-c636940408ca) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# تشغيل المشروع في وضع التطوير
 npm run dev
+
+# بناء المشروع للإنتاج
+npm run build
+
+# معاينة البناء
+npm run preview
 ```
 
-**Edit a file directly in GitHub**
+## المميزات
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- تصميم عصري وجذاب
+- واجهة مستخدم سلسة
+- متجاوب مع جميع الأجهزة
+- أداء عالي
+- ترجمة كاملة للعربية
 
-**Use GitHub Codespaces**
+## المشاريع المعروضة
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+يحتوي الموقع على 10 مشاريع متنوعة تشمل:
+- مواقع مطاعم
+- متاجر إلكترونية
+- لوحات تحكم
+- مدونات
+- مواقع شركات
 
-## What technologies are used for this project?
+## التواصل
 
-This project is built with .
+- Email: youssefesaam25@gmail.com
+- Phone: +20 115 032 1340
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/99d36a66-71e7-42f5-9d9c-c636940408ca) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+© 2025 • مصمم بشغف ودقة.
